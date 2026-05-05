@@ -923,6 +923,107 @@ SUNDAY     | Competition/Kaggle (3 hrs) + LinkedIn engage + Plan next week
 
 ---
 
+## ➕ Addendum: Missing Foundations & Strategic Enhancements
+
+> *This section restores key elements from the original roadmap that enhance beginner accessibility, practical data science exposure, and global opportunity readiness.*
+
+---
+
+### 🎥 Additional University Playlist (Data Science Core)
+
+| Course | Link | Why Add This |
+|--------|------|-------------|
+| Harvard CS109: Data Science | https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo | Covers real-world data analysis, visualization, and statistical thinking — essential bridge between ML theory and practical DS |
+
+> 📌 **Recommended Placement:** Semester 3 (Machine Learning Essentials) or Semester 5 (Big Data & MLOps)
+
+---
+
+### 🧪 Beginner Warm-Up Projects (Pre-Semester 1)
+
+> *For absolute beginners before starting full-scale projects.*
+
+- CLI Calculator (Python basics)
+- Number Guessing Game (logic building)
+- Simple Web Scraper (BeautifulSoup)
+- Basic To-Do App (file handling)
+
+> 🎯 Goal: Build confidence before transitioning into industry-level projects
+
+---
+
+### 🌍 Beginner-Friendly Communities
+
+> *To support early-stage learning and peer interaction.*
+
+- Reddit:
+  - r/cs50
+  - r/learnpython
+  - r/datascience
+- CS50 Discord / Slack groups
+- Kaggle Discussions (beginner threads)
+
+> 🎯 Goal: Ask questions, stay motivated, and learn from others’ mistakes
+
+---
+
+### 🏁 Additional Competitions
+
+| Competition | Notes |
+|------------|------|
+| Google AI Challenge | Occasionally active — worth monitoring |
+| Kaggle “30 Days of ML” | Beginner-friendly structured challenge |
+
+---
+
+### 🧑‍💻 Key Global Program (Must-Target)
+
+#### 🌟 Google Summer of Code (GSoC)
+
+- **Type:** Paid open-source internship (global, highly competitive)
+- **Best Time to Apply:** End of Year 1 → Year 2
+- **Preparation Strategy:**
+  - Contribute to open-source projects early (Month 3+)
+  - Build strong GitHub profile
+  - Engage with org communities before applying
+
+> 🎯 One of the most valuable programs for credibility + real-world experience
+
+---
+
+### 📌 Additional Notes on Kaggle Certifications
+
+To maintain structured progression:
+
+- Start with:
+  - Kaggle Python
+  - Kaggle Pandas  
+- Then:
+  - Kaggle Intro to Machine Learning  
+  - Kaggle Intermediate Machine Learning  
+  - Kaggle Feature Engineering  
+  - Kaggle Deep Learning  
+
+> 🎯 Follow this order strictly for maximum learning efficiency
+
+---
+
+## ✅ Integration Summary
+
+This addendum ensures:
+
+- ✔ Stronger **data science foundation** (CS109)
+- ✔ Smoother **beginner onboarding**
+- ✔ Better **community support**
+- ✔ Inclusion of **elite opportunity (GSoC)**
+- ✔ More **competition exposure**
+
+---
+
+💡 **Final Insight:**
+
+> Your roadmap is now not just elite—it is **complete from zero → expert → global level** without gaps.
+
 <div align="center">
 
 ## 🚀 You Are Not Just Learning AI. You Are Building The Person Who Does AI At The Highest Level.
