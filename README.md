@@ -16,7 +16,7 @@
 ---
 
 ## 📌 Table of Contents
-
+0. [📒 Semester 0 — Before You Begin](#-semester-0-before-you-begin--foundations-of-learning--thinking)
 1. [⚡ 5-Month Fast-Track Plan](#-5-month-fast-track-plan-job-ready-mode)
 2. [📅 Semester 1 — Foundations](#-semester-1-foundations-of-programming--mathematics)
 3. [📅 Semester 2 — Data Structures & Linear Algebra](#-semester-2-data-structures--linear-algebra)
@@ -31,6 +31,144 @@
 12. [📣 LinkedIn Growth System](#-linkedin-growth-system-0--authority)
 13. [🐙 Open Source & GitHub Strategy](#-open-source--github-strategy)
 14. [🌍 Global Opportunities Master List](#-global-opportunities-master-list)
+
+---
+
+
+## 📒 Semester 0: Before You Begin — Foundations of Learning & Thinking
+**Duration:** 3–4 Weeks (Before Semester 1) · This is your launchpad, not optional.
+
+> **Why Semester 0?**  
+> Most self-taught learners fail not because the content is hard — but because they never learned *how* to learn, *how* to think computationally, or *how* to survive math anxiety. Fix the foundation before building the house.
+
+---
+
+### 🎥 University Playlists & Core Watching
+
+| Course | Link | Why |
+|--------|------|-----|
+| **Learning How to Learn** — Barbara Oakley (McMaster) | [Coursera (free audit)](https://www.coursera.org/learn/learning-how-to-learn) | The single most important course before anything else |
+| **MIT Missing Semester of CS Education** | [YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J) | Terminal, Git, Bash — tools every developer needs but no one teaches |
+| **Harvard CS50P: Python for Beginners** (first 3 lectures only) | [YouTube](https://www.youtube.com/playlist?list=PLhQjrBD2T381L3iZyDTxRwOBuUt6m1Zns) | Gentlest on-ramp to programming logic |
+| **Khan Academy: Pre-Calculus & Algebra** | [khanacademy.org](https://www.khanacademy.org/math/precalculus) | Rebuild math confidence from the ground up |
+| **3Blue1Brown: Essence of Linear Algebra** (first 4 videos only) | [YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | Visual math intuition — makes Semester 2 click instantly |
+| **Crash Course: Computer Science** (Episodes 1–12) | [YouTube](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) | How computers actually work — build your mental model |
+
+---
+
+### 📜 Certifications
+
+- ✅ **Learning How to Learn** — Coursera (free audit + certificate option)
+- ✅ **Khan Academy:** Complete the "Algebra I" mastery challenge (proof of math floor)
+- ✅ **Typing.com or Keybr:** Reach 50+ WPM typing speed (seriously — slow typing kills flow)
+
+---
+
+### 🛠️ Environment Setup Checklist
+
+Complete this before writing a single line of ML code:
+
+```
+[ ] Install Python 3.11+ (via python.org or Anaconda)
+[ ] Install VS Code + Python extension + Jupyter extension
+[ ] Create a GitHub account (username: professional, not nicknames)
+[ ] Install Git and connect to GitHub via SSH key
+[ ] Learn 10 core terminal commands (ls, cd, mkdir, cp, mv, rm, git init, git add, git commit, git push)
+[ ] Create your first GitHub repo: "hello-world" — push a README.md
+[ ] Set up a free Kaggle account + Notion/Obsidian for notes
+[ ] Bookmark: ArXiv, Papers With Code, Towards Data Science, Distill.pub
+```
+
+---
+
+### 💻 GitHub Projects
+
+| Project | Stack | Purpose |
+|---------|-------|---------|
+| **"Hello, NeuroNova" README** | Markdown only | Your first public GitHub commit — documents your goals |
+| **Learning Log** | Markdown + GitHub repo | Week-by-week journal of what you learn (public = accountability) |
+
+> 💡 The Learning Log is not optional. Make it public. Post the link on LinkedIn Day 1.  
+> Future employers and collaborators will trace your growth from this very repo.
+
+---
+
+### 🧠 Thinking Skills to Build This Semester
+
+#### Learn These 4 Mental Models:
+1. **Feynman Technique** — Explain any concept in simple words. If you can't, you don't understand it yet.
+2. **Spaced Repetition** — Use Anki flashcards for formulas, concepts, and definitions. Review daily.
+3. **Active Recall** — After every lecture, close it and write what you remember. Never passive re-watching.
+4. **Pomodoro Method** — 25 min deep work → 5 min break. Protect your focus fiercely.
+
+#### Math Anxiety Protocol:
+- Do NOT skip math. Do NOT fear it.
+- Rule: If you don't understand something, **draw it** before you Google it.
+- Spend 20 min/day on Khan Academy math — daily, no exceptions, this month only.
+- Goal by end of Semester 0: Comfortable with fractions, exponents, basic algebra, and reading a simple graph.
+
+---
+
+### 🧠 LeetCode Strategy
+
+- **Target:** 10 problems (Easy only — warmup mode)
+- **Topics:** Basic input/output, conditionals, loops, simple functions
+- **Platform:** Start on [Scratch.mit.edu](https://scratch.mit.edu) if LeetCode feels too early — no shame, just build logic
+- **Habit:** 1 problem every 2 days, explain your solution in comments
+
+---
+
+### 📝 LinkedIn — Day 1 Actions
+
+| Action | Why |
+|--------|-----|
+| Create LinkedIn profile with real photo + professional headline | First impressions are permanent |
+| Write a "Day 1" post: "I'm starting a self-taught AI journey. Here's my plan:" | Accountability post — gets real support |
+| Connect with 10 people in AI/ML | Start your network before you need it |
+| Follow: Andrew Ng, Andrej Karpathy, Yann LeCun, Cassie Kozyrkov | Curate your feed from day one |
+
+**Headline formula for beginners:**  
+`Aspiring AI/ML Engineer · Self-Teaching at NeuroNova · Python | Data Science | Deep Learning`
+
+---
+
+### 🌐 Extracurriculars
+
+- Join **CS50 Discord** (friendly beginner community)
+- Join **r/learnprogramming** and **r/MachineLearning** on Reddit
+- Follow **#100DaysOfCode** on Twitter/X — start your own thread
+- Watch: *"How to Study Way More Effectively"* by Thomas Frank (YouTube, 15 min)
+
+---
+
+### 🏁 Semester 0 Exit Criteria
+
+> **Only move to Semester 1 when you can say YES to all of these:**
+
+```
+[ ] I can write a Python script that takes input, does a calculation, and prints output
+[ ] I can push code to GitHub from my terminal without looking up commands
+[ ] I understand what a variable, loop, and function are
+[ ] I know what a matrix is and can do basic matrix addition by hand
+[ ] I have posted on LinkedIn at least once about my journey
+[ ] My Learning Log repo has at least 3 entries
+[ ] I have completed "Learning How to Learn" on Coursera
+[ ] I can study for 90 minutes without checking my phone
+```
+
+---
+
+### 🔬 Research Track — Semester 0
+
+- Read: *"A Mind for Numbers"* by Barbara Oakley (free PDF available) — the book behind the Coursera course
+- Read: *"Deep Work"* by Cal Newport (summary on YouTube, 15 min) — protect your attention
+- Action: Write a 200-word note on Notion/Obsidian: "Why I want to do AI and what I will do with it"
+- This note becomes the foundation of every personal statement, fellowship essay, and LinkedIn bio you write.
+
+---
+
+> **Remember:** Semester 0 is not about being impressive. It's about being **ready**.  
+> The student who sets up their tools properly, builds the study habit, and starts the Learning Log on Day 1 will outpace the one who skips straight to neural networks by Month 3.
 
 ---
 
